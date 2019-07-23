@@ -1,0 +1,3 @@
+/lore/hur3/June_19/UpdateTcond/testAlternating/SurfaceUpdate/build/CMakeFiles/rebuild_cache.dir
+/lore/hur3/June_19/UpdateTcond/testAlternating/SurfaceUpdate/build/CMakeFiles/SurfaceUpdate.dir
+/lore/hur3/June_19/UpdateTcond/testAlternating/SurfaceUpdate/build/CMakeFiles/edit_cache.dir

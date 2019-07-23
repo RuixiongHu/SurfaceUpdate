@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/lore/hur3/June_19/UpdateTcond/testAlternating/SurfaceUpdate/SurfaceUpdate.cc
+apf.h
+-
+apfMesh2.h
+-
+gmi_mesh.h
+-
+gmi_sim.h
+-
+apfMDS.h
+-
+apfShape.h
+-
+PCU.h
+-
+SimUtil.h
+-
+MeshSim.h
+-
+cassert
+-
+stdlib.h
+-
+vector
+-
+math.h
+-
+iostream
+-
+lionPrint.h
+/lore/hur3/June_19/UpdateTcond/testAlternating/SurfaceUpdate/lionPrint.h
+parma.h
+-
+spr.h
+/lore/hur3/June_19/UpdateTcond/testAlternating/SurfaceUpdate/spr.h
+apfConvert.h
+-
+

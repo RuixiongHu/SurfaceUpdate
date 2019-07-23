@@ -1,0 +1,10 @@
+#!/bin/bash -e
+#module load cmake xl proprietary/simmetrix/simModSuite proprietary/core-sim/xl
+set -x
+[ ! -e build ] && mkdir build
+cd build
+flags='-g -O2'
+cmake -DCMAKE_CXX_COMPILER=mpicxx -DCMAKE_CXX_FLAGS="$flags" -DPETSC_DIR=$PETSC_DIR ../
+cd -
+set +x
+
